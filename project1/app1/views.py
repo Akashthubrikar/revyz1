@@ -13,3 +13,4 @@ class CandidateCreate(generics.CreateAPIView):
 
 
 
+
